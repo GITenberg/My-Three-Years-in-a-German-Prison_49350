@@ -1,4 +1,8 @@
 _repo: My-Three-Years-in-a-German-Prison_49350
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49350-h/images/cover.jpg
 creator:
   author:
     agent_name: Beland, Henri Severin
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4953
     wikipedia: https://en.wikipedia.org/wiki/Henri_S%C3%A9v%C3%A9rin_B%C3%A9land
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49350#My-Three-Years-in-a-German-Prison
 gutenberg_issued: '2015-07-04'
 gutenberg_type: Text
 identifiers:
